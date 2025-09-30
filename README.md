@@ -43,8 +43,8 @@ Currently learning **JavaScript (Intermediate)** and diving into **full-stack de
 
 ## 📊 GitHub Stats  
 
-![Zulqarnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulqarnain-07&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-07&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zulqarnain-07&theme=tokyonight&hide_border=false)  
 
 ---
 
