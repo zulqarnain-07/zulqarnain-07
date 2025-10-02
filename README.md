@@ -3,7 +3,7 @@
 🚀 **Software Engineering Student | Frontend Developer | Future Full-Stack Developer**  
 
 I'm passionate about **coding, development, and calisthenics 💪**.  
-Currently learning **JavaScript (Intermediate)** and diving into **full-stack development**.  
+Currently learning **Backend** and diving into **full-stack development**.  
 
 ---
 
