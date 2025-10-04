@@ -36,8 +36,8 @@ Currently learning **Backend** and diving into **full-stack development**.
 
 ## 📌 Featured Projects  
 🔹 [🤖 Requirements AI](#) – AI-powered tool for gathering & analyzing software requirements  
-🔹 [🛒 eCommerce Clone(Daraz)](#) – Product, cart, and review system  
-🔹 [📂 Portfolio Website](#) – Showcasing my work & skills  
+🔹 [🛒 eCommerce Clone(Daraz)](https://zulqarnain-daraz.netlify.app/) – Product, cart, and review system  
+🔹 [📂 Portfolio Website](https://zulqarnain-2025.netlify.app/) – Showcasing my work & skills  
 
 ---
 
