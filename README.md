@@ -55,4 +55,4 @@ Currently learning **Backend** and diving into **full-stack development**.
 
 ---
 
-✨ _"Consistency beats talent when talent doesn’t work hard."_  
+ 
